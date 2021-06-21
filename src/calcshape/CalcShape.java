@@ -42,7 +42,7 @@ public class CalcShape{
                 break;
         }
     
-        return 0;
+     
      }
      
      private static double askForInput(Scanner scanner, String prompt) {
